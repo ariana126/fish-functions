@@ -1,0 +1,1 @@
+function ping-claude; check-claude-safety && claude -p "ping" --model haiku; end
